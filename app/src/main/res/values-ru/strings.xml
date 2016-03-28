@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- [Comment] Where is ukrainian localization??? -->
+
     <string name="publicUtilities">Комунальне господарство</string>
     <string name="inProgress">В работе</string>
     <string name="created">Создано</string>

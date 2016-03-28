@@ -13,7 +13,7 @@ import java.util.Locale;
 
 public class RecyclerViewAdapter extends RecyclerView.Adapter<RecyclerViewHolder> {
     private ArrayList<String> arrayListUrls;
-    private Context context;
+    private Context context; //[Comment] Wrong names
 
     public RecyclerViewAdapter(Context context, ArrayList<String> arrayList) {
         this.context = context;

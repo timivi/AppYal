@@ -193,5 +193,5 @@
             </android.support.v7.widget.RecyclerView>
         </LinearLayout>
     </ScrollView>
-
+    <!-- [Comment] A lot of hardcode -->
 </RelativeLayout>
